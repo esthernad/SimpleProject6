@@ -6,7 +6,8 @@ Given the user is in home page
 When the user enter "<username>" and "<password>"
 And  the user press submit button
 Then the user successfully logged in
-
+  And  the user press submit button
+  Then the user successfully logged in
 
 
 Examples:
