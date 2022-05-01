@@ -1,6 +1,6 @@
 Feature: LogginIn functionality
 
-Scenario Outline: log in
+Scenario Outline: I'm signing in
 
 Given the user is in home page
 When the user enter "<username>" and "<password>"
