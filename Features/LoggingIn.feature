@@ -8,6 +8,8 @@ And  the user press submit button
 Then the user successfully logged in
   And  the user press submit button
   Then the user successfully logged in
+  And  the user press submit button
+  Then the user successfully logged in
 
 
 Examples:
